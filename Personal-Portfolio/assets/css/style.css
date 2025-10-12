@@ -1880,10 +1880,6 @@ textarea.form-input::-webkit-resizer {
     grid-template-columns: repeat(3, 1fr);
   }
 
-  /**
-   * BLOG
-   */
-
   .blog-banner-box {
     height: 230px;
   }
