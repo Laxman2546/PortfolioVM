@@ -1732,7 +1732,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* testimonials */
 
-  .testimonials-item { min-width: calc(50% - 15px); }
+  .testimonials-item { 
+    min-width: calc(50% - 15px) 
+    
+  }
 
   /* clients */
 
